@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://topservicearcondicionado.com.br/sitemap.xml
